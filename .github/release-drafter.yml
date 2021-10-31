@@ -25,4 +25,4 @@ version-resolver:
 template: |
   ## Changes
 
-  $CHANGEDS
+  $CHANGES
