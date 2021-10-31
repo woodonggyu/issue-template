@@ -1,10 +1,5 @@
 [
   {
-    "name": "good first issue",
-    "color": "7057ff",
-    "description": "Good for newcomers"
-  },
-  {
     "name": "help wanted",
     "color": "008672",
     "description": "Extra attention is needed"
@@ -88,6 +83,21 @@
     "name": "type: question",
     "color": "d876e3",
     "description": "Further information is requested"
-  }
+  },
+  {
+    "name": "version: major",
+    "color": "#D93F0B"
+    "description": "versioning using release-drafter"
+  },
+  {
+    "name": "version: minor",
+    "color": "#0052CC"
+    "description": "versioning using release-drafter"
+  },
+  {
+    "name": "version: patch",
+    "color": "#FBCA04"
+    "description": "versioning using release-drafter"
+  },
 ]
 
