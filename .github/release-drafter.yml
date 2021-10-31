@@ -9,7 +9,7 @@ categories:
     label: 'type: docs'
   - title: 'Dependency Updates'
     label: 'type: dependencies'
-change-template: '- $TITLE @$AUTHOR (#$UNMUBER0'
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 change-title-escape: '\<*_&'
 version-resolver:
   major:
