@@ -19,7 +19,7 @@ version-resolver:
     labels:
       - 'version: minor'
   patch:
-    lables:
+    labels:
       - 'version: patch'
   default: patch
 template: |
