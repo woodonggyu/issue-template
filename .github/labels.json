@@ -98,6 +98,6 @@
     "name": "release: patch",
     "color": "#FBCA04",
     "description": "versioning using release-drafter"
-  },
+  }
 ]
 

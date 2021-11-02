@@ -10,17 +10,17 @@ categories:
   - title: 'Dependency Updates'
     label: 'type: dependencies'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
-change-title-escape: '\<*_&'
+change-title-escapes: '\<*_&'
 version-resolver:
   major:
     labels:
-      - 'version: major'
+      - 'release: major'
   minor:
     labels:
-      - 'version: minor'
+      - 'release: minor'
   patch:
-    lables:
-      - 'version: patch'
+    labels:
+      - 'release: patch'
   default: patch
 template: |
   ## Changes
